@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Glamour Nails Paris",
+    "area": "Paris 6ème arrondissement",
+    "lat": 48.8534,
+    "lng": 2.3488,
+    "category": "Nail Salon",
+    "priceRange": "€€",
+    "phone": "+33 1 45 48 55 26",
+    "services": ["Manicure", "Pedicure", "Gel Nails", "Nail Art"],
+    "hours": "9:00 - 19:00",
+    "website": "https://example.com",
+    "rating": 4.8,
+    "reviews": 124,
+    "image": "https://images.unsplash.com/photo-1604654894610-df63bc536371?w=400&h=300&fit=crop"
+  },
+  {
+    "id": 2,
+    "name": "Bella Beauty Spa",
+    "area": "Paris 9ème arrondissement",
+    "lat": 48.8766,
+    "lng": 2.3392,
+    "category": "Beauty Salon",
+    "priceRange": "€",
+    "phone": "+33 1 42 81 39 38",
+    "services": ["Manicure", "Pedicure", "Waxing"],
+    "hours": "10:00 - 18:00",
+    "website": "https://example.com",
+    "rating": 4.5,
+    "reviews": 89,
+    "image": "https://images.unsplash.com/photo-1562322140-8baeececf3df?w=400&h=300&fit=crop"
+  },
+  {
+    "id": 3,
+    "name": "Luxe Nail Studio",
+    "area": "Paris 8ème arrondissement",
+    "lat": 48.8738,
+    "lng": 2.3105,
+    "category": "Nail Salon",
+    "priceRange": "€€€",
+    "phone": "+33 1 53 93 97 00",
+    "services": ["Manicure", "Pedicure", "Gel Nails", "Spa Treatment", "Nail Art"],
+    "hours": "9:00 - 20:00",
+    "website": "https://example.com",
+    "rating": 4.9,
+    "reviews": 203,
+    "image": "https://images.unsplash.com/photo-1610992015732-2449b76344bc?w=400&h=300&fit=crop"
+  }
+]
